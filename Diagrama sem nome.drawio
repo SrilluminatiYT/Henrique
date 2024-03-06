@@ -1,34 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2024-03-06T00:01:29.218Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="D9KvIb49dDrp6xLjCGga" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-06T00:04:11.076Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="1-qURDhc0t_y9HqpT4f_" version="24.0.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="499" dy="279" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="339" dy="252" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="xWbrNfhNZFDSZNDw7vAr-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="328.5" y="116.5" as="sourcePoint" />
-            <mxPoint x="440.0000000000002" y="113.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="329" y="113" />
-              <mxPoint x="396" y="113" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xWbrNfhNZFDSZNDw7vAr-1" value="&lt;div&gt;Pessoa&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="313" y="85.5" width="31" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="xWbrNfhNZFDSZNDw7vAr-15" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="xWbrNfhNZFDSZNDw7vAr-16">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="640" y="110" as="sourcePoint" />
-            <mxPoint x="514" y="110" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xWbrNfhNZFDSZNDw7vAr-16" value="Cadastrar na conta" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="80" width="80" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="xWbrNfhNZFDSZNDw7vAr-17" value="Registrar" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="640" y="82.5" width="110" height="55" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
